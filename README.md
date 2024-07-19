@@ -1,3 +1,7 @@
 # sit-search-cli
 
-Describe your project here.
+## Usage
+`ss <query>`
+
+## Screenshots
+![screenshot](./screenshot.png)
